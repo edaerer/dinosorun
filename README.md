@@ -1,5 +1,5 @@
 # dinosorun
-First game I ever made.
+First game I've ever made.
 
 * If you touch a snail you LOSE.
 * If you touch a fly you LOSE.
